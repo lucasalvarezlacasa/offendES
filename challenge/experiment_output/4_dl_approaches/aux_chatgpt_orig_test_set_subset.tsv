@@ -1,0 +1,661 @@
+id	prompt	response	goal	match
+Hey, déjame decirte que te sigo desde que retomaste el canal en el 2015. Con toda la sinceridad del mundo puedo decir que te conocí primero que a aquella persona juju. Y sin importar toda la polémica que se creó, he estado suscrita por tu contenido, tus ideas, opiniones, etc., Considero que has sido muy fuerte a lo largo de estos años y espero que crezcas mucho y llegues muy lejos. Im really proud of you. (Es la primera vez que comento en uno de tus videos desde hace años, tampoco espero que lo veas. En caso de que sí saludos desde Mexico ahre)	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Hey, déjame decirte que te sigo desde que retomaste el canal en el 2015. Con toda la sinceridad del mundo puedo decir que te conocí primero que a aquella persona juju. Y sin importar toda la polémica que se creó, he estado suscrita por tu contenido, tus ideas, opiniones, etc., Considero que has sido muy fuerte a lo largo de estos años y espero que crezcas mucho y llegues muy lejos. Im really proud of you. (Es la primera vez que comento en uno de tus videos desde hace años, tampoco espero que lo veas. En caso de que sí saludos desde Mexico ahre)
+```
+"	NO	NO	*
+Al ver tu cambio por instagram me ENAMORO en serio, me encantaba  cuando lo tenias mas largo pero ahora me flipa en serio te queda genial. No hay palabras para expresar lo valiente que eres haciendote este cambio sin saber si te iba a quedar bien o mal (que a ti nada te queda mal) o las críticas que ibas a recibir, me encantas❤.	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Al ver tu cambio por instagram me ENAMORO en serio, me encantaba  cuando lo tenias mas largo pero ahora me flipa en serio te queda genial. No hay palabras para expresar lo valiente que eres haciendote este cambio sin saber si te iba a quedar bien o mal (que a ti nada te queda mal) o las críticas que ibas a recibir, me encantas❤.
+```
+"	NO	NO	*
+No me interesa una mierda lo que contas pero me divierte mucho #meencantantusvideos 😂😂😂	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+No me interesa una mierda lo que contas pero me divierte mucho #meencantantusvideos 😂😂😂
+```
+"	NOM	NO	
+Partido nuevo, fresco y con un esquema distinto al de siempre! Llega el cambio, llega @nuevaorden_es	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Partido nuevo, fresco y con un esquema distinto al de siempre! Llega el cambio, llega @nuevaorden_es
+```
+"	NO	NO	*
+"""Miare solo la promociono y ya está""... Si claro, porque promocionar una página de estafas no estaria mal, tendrias que ser el mero dueño para tener carga de conciencia... No parece muy correcta la lógica tan maleable que usaste ahí (Igual sea o no estafa me refiero al ejemplo)"	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+""Miare solo la promociono y ya está""... Si claro, porque promocionar una página de estafas no estaria mal, tendrias que ser el mero dueño para tener carga de conciencia... No parece muy correcta la lógica tan maleable que usaste ahí (Igual sea o no estafa me refiero al ejemplo)
+```
+"	OFP	NO	
+Eso es un pulpo de verdad?   Parece una mezcla de pulpo y perro rabioso.	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Eso es un pulpo de verdad?   Parece una mezcla de pulpo y perro rabioso.
+```
+"	NOM	NO	
+No sé porque, pero la nueva nariz te hace ver más tierno y muy joven.	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+No sé porque, pero la nueva nariz te hace ver más tierno y muy joven.
+```
+"	NO	NO	*
+Tenía miedo de ver este video pero ha valido la pena, que palabras tan bonitas e inspiradoras. Gracias por eso Laura, mucho éxito en tu vida. Besos desde Venezuela💕💖👏🏼	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Tenía miedo de ver este video pero ha valido la pena, que palabras tan bonitas e inspiradoras. Gracias por eso Laura, mucho éxito en tu vida. Besos desde Venezuela💕💖👏🏼
+```
+"	NO	NO	*
+Me causa mucho toque que la silla esté de lado y el logo DxRacer se vea muy al borde de la silla	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Me causa mucho toque que la silla esté de lado y el logo DxRacer se vea muy al borde de la silla
+```
+"	NO	NO	*
+Soy el único que cree que ella podría hacer linda pareja con Yao Cabrera? Los dos pueden hacer linda pareja con todo lo que hacen :D GRACIAS POR GRITARME EN EL OIDO!!! NO ENTIENDO COMO ES QUE LOS VECINOS TE SOPORTAN CON LO QUE GRITAS Y HACES!	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Soy el único que cree que ella podría hacer linda pareja con Yao Cabrera? Los dos pueden hacer linda pareja con todo lo que hacen :D GRACIAS POR GRITARME EN EL OIDO!!! NO ENTIENDO COMO ES QUE LOS VECINOS TE SOPORTAN CON LO QUE GRITAS Y HACES!
+```
+"	OFP	NO	
+no sólo las gordas sufren, por mucho que cueste creerlo. Está bien visibilizar el bulling, sea por el motivo que sea	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+no sólo las gordas sufren, por mucho que cueste creerlo. Está bien visibilizar el bulling, sea por el motivo que sea
+```
+"	NO	NO	*
+Nmms si los platanos individuales se venden así en Japón ya que escasean de fruta por lo tanto te los venden individualmente en ese paquete y para que las personas no los puedan abrir hasta comprarlos._.	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Nmms si los platanos individuales se venden así en Japón ya que escasean de fruta por lo tanto te los venden individualmente en ese paquete y para que las personas no los puedan abrir hasta comprarlos._.
+```
+"	NO	NO	*
+Yo me muero si alguien me borra las listas de reproducción de Spotify YouTube  o cualquier cosa de hecho. Me quedo en cero.	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Yo me muero si alguien me borra las listas de reproducción de Spotify YouTube  o cualquier cosa de hecho. Me quedo en cero.
+```
+"	NO	NO	*
+Y la cabeza de atrás me parecía que movía los ojos. Pero los tiene en blanco  Creo que la loca ya es otra FANTASIA	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Y la cabeza de atrás me parecía que movía los ojos. Pero los tiene en blanco  Creo que la loca ya es otra FANTASIA
+```
+"	NOM	NO	
+La mía, para la fecha de tu niña hace 15 años. Cuando te des cuenta ..	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+La mía, para la fecha de tu niña hace 15 años. Cuando te des cuenta ..
+```
+"	NOM	NO	
+ESQUE TE PUTO AMO JAJAJAJAJAJAJJAJ	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+ESQUE TE PUTO AMO JAJAJAJAJAJAJJAJ
+```
+"	OFP	NOM	
+en realidad bn es bien, buenas noches seria bnas noches ,es estúpido pero es asi	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+en realidad bn es bien, buenas noches seria bnas noches ,es estúpido pero es asi
+```
+"	NOM	NOM	*
+Verga Dalas y entonces😂	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Verga Dalas y entonces😂
+```
+"	OFP	NOM	
+Jajajaja tu imagen está más manchada que caca de paloma 😎	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Jajajaja tu imagen está más manchada que caca de paloma 😎
+```
+"	NOM	NOM	*
+No me creo lo k vi xddddd el puto naruto con esos perlas	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+No me creo lo k vi xddddd el puto naruto con esos perlas
+```
+"	OFP	NOM	
+Todos en final de 2019:2020 Seguro que será un mejor año  Todos a principio de 2020:Bueno seguro que mejorara  Hoy en dia:Que cojones es esto?!	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Todos en final de 2019:2020 Seguro que será un mejor año  Todos a principio de 2020:Bueno seguro que mejorara  Hoy en dia:Que cojones es esto?!
+```
+"	OFP	NOM	
+Tía no sé que coño hablas pero me haces reír a un nivel supremo😂😂😂😂	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Tía no sé que coño hablas pero me haces reír a un nivel supremo😂😂😂😂
+```
+"	NOM	NOM	*
+Haz intros de trap cabron	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Haz intros de trap cabron
+```
+"	NOM	NOM	*
+noooooooooooooo yt me desactivo la puta campana	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+noooooooooooooo yt me desactivo la puta campana
+```
+"	NOM	NOM	*
+Hoy he tenido un día de mierda y me acabas de alegrar recordándome a la obedece la morsa con mis amigos. Gracias❤️	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Hoy he tenido un día de mierda y me acabas de alegrar recordándome a la obedece la morsa con mis amigos. Gracias❤️
+```
+"	NOM	NOM	*
+DIOSS ESTI CONOCE A LOVELY PEACHES PUTO FAN <3	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+DIOSS ESTI CONOCE A LOVELY PEACHES PUTO FAN <3
+```
+"	OFP	NOM	
+Wimichu deja la cerveza toma zumitos coño	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Wimichu deja la cerveza toma zumitos coño
+```
+"	OFP	NOM	
+para auron esto es una mierda de tik tock	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+para auron esto es una mierda de tik tock
+```
+"	OFP	NOM	
+Ni foto por aquí, ni mierda ...	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Ni foto por aquí, ni mierda ...
+```
+"	NOM	NOM	*
+De puta madre el video, un capo	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+De puta madre el video, un capo
+```
+"	NOM	NOM	*
+Te veo más delgada .... gorda traicionera	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Te veo más delgada .... gorda traicionera
+```
+"	OFP	OFP	*
+Guarra t amo	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Guarra t amo
+```
+"	OFP	OFP	*
+Pinche loca vete ala cárcel🖕🖕🖕	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Pinche loca vete ala cárcel🖕🖕🖕
+```
+"	OFP	OFP	*
+"Vete al diablo y en el infierno que te quemes para siempre bi""ch"	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Vete al diablo y en el infierno que te quemes para siempre bi""ch
+```
+"	OFP	OFP	*
+que patética la niña, esta robando contenido que no es de ella y se enoja que usen sus vídeos resubidos de otra persona XD	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+que patética la niña, esta robando contenido que no es de ella y se enoja que usen sus vídeos resubidos de otra persona XD
+```
+"	OFP	OFP	*
+Ya fuiste  olvidada jajajaja gamer con tetaa falsa	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Ya fuiste  olvidada jajajaja gamer con tetaa falsa
+```
+"	OFP	OFP	*
+Vaya mierda de persona	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Vaya mierda de persona
+```
+"	OFP	OFP	*
+Windy es lamentablemente patética tienes toda la razón Javi 🏃‍♂️	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Windy es lamentablemente patética tienes toda la razón Javi 🏃‍♂️
+```
+"	OFP	OFP	*
+El panochudo quiere creer que badadun esta atrás de esto,noo badadun ya quebró no tiene vistas no le araña a a nadie no tendrían motivo para hacerlo todo lo que le esta pasando es por todas las personas que daño a Kenia que siempre tuvo la razón SE LLAMA KARMA.🤡	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+El panochudo quiere creer que badadun esta atrás de esto,noo badadun ya quebró no tiene vistas no le araña a a nadie no tendrían motivo para hacerlo todo lo que le esta pasando es por todas las personas que daño a Kenia que siempre tuvo la razón SE LLAMA KARMA.🤡
+```
+"	OFG	OFP	
+ratera	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+ratera
+```
+"	NOM	OFP	
+Dalas pendejo🖕🏽 me cagas ala verga	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Dalas pendejo🖕🏽 me cagas ala verga
+```
+"	OFP	OFP	*
+Loca mmv	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Loca mmv
+```
+"	NOM	OFP	
+Fea xd	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Fea xd
+```
+"	NOM	OFP	
+Que gorda  está la Windy... parece que quiere volver a sus orígenes	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Que gorda  está la Windy... parece que quiere volver a sus orígenes
+```
+"	OFP	OFP	*
+turbo Cobarde	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+turbo Cobarde
+```
+"	OFP	OFP	*
+Me da lástima que haya tanto idiota de 13 años que no entienden las situaciones y se limitan a seguir el rebaño de tóxicos. Gente, no es gracioso burlarse de alguien por algo que ha pasado hace ya mucho. De verdad vuestras vidas son tan pésimas? Tu madre te ha criado para creerte mejor que una persona? Me dais mucha pena, que no os hayan enseñado lo q es el respeto, saber los límites del fanatismo... Espero que maduren	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Me da lástima que haya tanto idiota de 13 años que no entienden las situaciones y se limitan a seguir el rebaño de tóxicos. Gente, no es gracioso burlarse de alguien por algo que ha pasado hace ya mucho. De verdad vuestras vidas son tan pésimas? Tu madre te ha criado para creerte mejor que una persona? Me dais mucha pena, que no os hayan enseñado lo q es el respeto, saber los límites del fanatismo... Espero que maduren
+```
+"	OFP	OFG	
+Yo leyendo los comentarios bien puercos de la gente tonta que no tiene con quien desquitarse, algunos hombres son asi xD ¿Verdad?	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Yo leyendo los comentarios bien puercos de la gente tonta que no tiene con quien desquitarse, algunos hombres son asi xD ¿Verdad?
+```
+"	OFG	OFG	*
+Que mala serie Elite, no me gusta nada, están todos locos drogados y Follan más que un conejo	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Que mala serie Elite, no me gusta nada, están todos locos drogados y Follan más que un conejo
+```
+"	NOM	OFG	
+la amistad de kimberli y kenia era como la de Regina george con gretchen y karen en mean girls solo era por conveniencia	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+la amistad de kimberli y kenia era como la de Regina george con gretchen y karen en mean girls solo era por conveniencia
+```
+"	NOM	OFG	
+increible a lo que puede llegar la gente estan bien enfermos , espero ver el video de quienes fueron y tambien que les pidas una jugoza indemnización	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+increible a lo que puede llegar la gente estan bien enfermos , espero ver el video de quienes fueron y tambien que les pidas una jugoza indemnización
+```
+"	OFP	OFG	
+Que rabia, Dalas dejalos quietos son unos retrasados mentales nunca van a cambiar 🙄	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Que rabia, Dalas dejalos quietos son unos retrasados mentales nunca van a cambiar 🙄
+```
+"	OFP	OFG	
+Habla sobre los putos fascistas de mierda! Seria aun mas fan! 🙏🙏🙏	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Habla sobre los putos fascistas de mierda! Seria aun mas fan! 🙏🙏🙏
+```
+"	OFG	OFG	*
+La gente está mal de la cabeza...Lo peor es tener tiempo libre porque la gente mete mucha mierda por no tener nada que hacer en la vida...	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+La gente está mal de la cabeza...Lo peor es tener tiempo libre porque la gente mete mucha mierda por no tener nada que hacer en la vida...
+```
+"	OFG	OFG	*
+Que mongolos 🤣🤣🤣🤣	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Que mongolos 🤣🤣🤣🤣
+```
+"	OFP	OFG	
+No hace falta poner que son estúpidos porque  la gente que tenga almenos 2 gramos de celebro sabe que son inútiles los life hacks	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+No hace falta poner que son estúpidos porque  la gente que tenga almenos 2 gramos de celebro sabe que son inútiles los life hacks
+```
+"	OFP	OFG	
+Pinche gente enferma 😂😂😝😝	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Pinche gente enferma 😂😂😝😝
+```
+"	OFG	OFG	*
+Jajaja qué gente de mierda 😂😂	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Jajaja qué gente de mierda 😂😂
+```
+"	OFG	OFG	*
+Que esa familia ya se vaya a la puta carcel y recuperes a Argos	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Que esa familia ya se vaya a la puta carcel y recuperes a Argos
+```
+"	OFP	OFG	
+Unos niñatos. Que no tienen ni puta idea del trabajo y el sacrificio. Lo peor es que hay gente que trabaja durísimo en emprender y demás. En montar un negocio, en ganar clientes etc  Y esta gente les vende su dropshiping barato y mal hecho. Y tienen potenciales clientes en su comunidad. Acojonante.	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Unos niñatos. Que no tienen ni puta idea del trabajo y el sacrificio. Lo peor es que hay gente que trabaja durísimo en emprender y demás. En montar un negocio, en ganar clientes etc  Y esta gente les vende su dropshiping barato y mal hecho. Y tienen potenciales clientes en su comunidad. Acojonante.
+```
+"	OFG	OFG	*
+Igual se te olvidó mencionar un caso especial de la comunidad hispanohablante: aquí tuvimos a los malditos papulinces y sus momos	"
+Classify the text in Spanish surrounded by triple backticks into one of these four categories for hate-speech detection. Provide only the corresponding label for your answer:
+- OFP: Offensive, the target is a person.
+- OFG: Offensive, the target is a group of people or a collective.
+- NOM: Not offensive, though with inappropriate or insulting language.
+- NO: Not offensive.
+
+```
+Igual se te olvidó mencionar un caso especial de la comunidad hispanohablante: aquí tuvimos a los malditos papulinces y sus momos
+```
+"	OFG	OFG	*
