@@ -3,7 +3,7 @@
 _⚠️ This work constitutes the final practice of the subject "Redes Neuronales para PLN" of my Másters
 at [UNED](https://www.uned.es/universidad/inicio/en/estudios/masteres/master-universitario-en-tecnologias-del-lenguaje.html?idContenido=1).
 This is why some of the comments in the notebooks will be in Spanish.
-Due to this, copying any of the work presented here and use it for the same subject is completely prohibited._
+Due to this, copying any of the work presented here and using it for the same subject is completely prohibited._
 
 ## Introduction
 
